@@ -9,7 +9,7 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
       "stars_today": 3563,
-      "total_stars": 68838,
+      "total_stars": 68839,
       "forks": 9935,
       "topics": [
         "ai",
@@ -29,7 +29,7 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "stars_today": 1876,
-      "total_stars": 128986,
+      "total_stars": 128988,
       "forks": 8843,
       "topics": [
         "autogen",
@@ -94,7 +94,7 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
       "stars_today": 319,
-      "total_stars": 127681,
+      "total_stars": 127683,
       "forks": 20892,
       "topics": [],
       "created_at": "2025-02-22T17:41:21Z"
@@ -106,7 +106,7 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
       "stars_today": 2066,
-      "total_stars": 27657,
+      "total_stars": 27659,
       "forks": 2051,
       "topics": [
         "agent",
@@ -182,7 +182,7 @@
       "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "language": "",
       "stars_today": 1564,
-      "total_stars": 49443,
+      "total_stars": 49444,
       "forks": 5183,
       "topics": [
         "chinese",
@@ -198,7 +198,7 @@
       "description": "",
       "language": "Jupyter Notebook",
       "stars_today": 102,
-      "total_stars": 2519,
+      "total_stars": 2520,
       "forks": 311,
       "topics": [],
       "created_at": "2024-06-25T07:09:18Z"
@@ -222,7 +222,7 @@
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
       "language": "HTML",
       "stars_today": 1317,
-      "total_stars": 171448,
+      "total_stars": 171449,
       "forks": 3330,
       "topics": [
         "digitalplat",
@@ -242,7 +242,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": 1413,
-      "total_stars": 198210,
+      "total_stars": 198211,
       "forks": 30468,
       "topics": [
         "ai-agents",
@@ -263,7 +263,7 @@
       "description": "A skill file for removing AI tells from prose",
       "language": "",
       "stars_today": 618,
-      "total_stars": 6783,
+      "total_stars": 6784,
       "forks": 480,
       "topics": [],
       "created_at": "2026-01-11T12:00:59Z"
