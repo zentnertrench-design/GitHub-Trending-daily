@@ -1,4 +1,4 @@
-: Daily GitHub Trending
+name: Daily GitHub Trending
 
 on:
   schedule:
