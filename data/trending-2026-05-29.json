@@ -9,8 +9,18 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
       "stars_today": 3563,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 68838,
+      "forks": 9935,
+      "topics": [
+        "ai",
+        "automation",
+        "chatgpt",
+        "moviepy",
+        "python",
+        "shortvideo",
+        "tiktok"
+      ],
+      "created_at": "2024-03-11T02:57:34Z"
     },
     {
       "owner": "microsoft",
@@ -19,8 +29,18 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "stars_today": 1876,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 128986,
+      "forks": 8843,
+      "topics": [
+        "autogen",
+        "autogen-extension",
+        "langchain",
+        "markdown",
+        "microsoft-office",
+        "openai",
+        "pdf"
+      ],
+      "created_at": "2024-11-13T19:56:40Z"
     },
     {
       "owner": "EveryInc",
@@ -29,8 +49,13 @@
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
       "stars_today": 354,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 17999,
+      "forks": 1371,
+      "topics": [
+        "compound",
+        "engineering"
+      ],
+      "created_at": "2025-10-09T19:43:46Z"
     },
     {
       "owner": "twentyhq",
@@ -39,8 +64,28 @@
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
       "stars_today": 575,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 48212,
+      "forks": 6831,
+      "topics": [
+        "crm",
+        "crm-system",
+        "customer",
+        "good-first-issue",
+        "graphql",
+        "hacktoberfest",
+        "javascript",
+        "marketing",
+        "monorepo",
+        "nestjs",
+        "open-source",
+        "postgresql",
+        "react",
+        "reactjs",
+        "sales",
+        "typescript",
+        "web"
+      ],
+      "created_at": "2022-12-01T13:04:40Z"
     },
     {
       "owner": "anthropics",
@@ -49,8 +94,10 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
       "stars_today": 319,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 127681,
+      "forks": 20892,
+      "topics": [],
+      "created_at": "2025-02-22T17:41:21Z"
     },
     {
       "owner": "Leonxlnx",
@@ -59,8 +106,24 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
       "stars_today": 2066,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 27657,
+      "forks": 2051,
+      "topics": [
+        "agent",
+        "ai",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "design",
+        "frontend",
+        "lowcode",
+        "nocode",
+        "skill",
+        "skills",
+        "vibecoding"
+      ],
+      "created_at": "2026-02-19T21:44:05Z"
     },
     {
       "owner": "cursor",
@@ -69,8 +132,10 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "stars_today": 129,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 1199,
+      "forks": 105,
+      "topics": [],
+      "created_at": "2026-01-23T01:57:42Z"
     },
     {
       "owner": "run-llama",
@@ -78,9 +143,19 @@
       "url": "https://github.com/run-llama/liteparse",
       "description": "A fast, helpful, and open-source document parser",
       "language": "Rust",
-      "stars_today": 932,
-      "total_stars": 0,
-      "forks": 0
+      "stars_today": 680,
+      "total_stars": 6866,
+      "forks": 428,
+      "topics": [
+        "document-ocr",
+        "document-processing",
+        "ocr",
+        "ocr-recognition",
+        "pdf",
+        "pdf-parser",
+        "text-extraction"
+      ],
+      "created_at": "2026-02-09T22:16:30Z"
     },
     {
       "owner": "galilai-group",
@@ -89,8 +164,16 @@
       "description": "A platform for reproducible world model research and evaluation",
       "language": "Python",
       "stars_today": 346,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 1106,
+      "forks": 143,
+      "topics": [
+        "deep-learning",
+        "jepa",
+        "model-predictive-control",
+        "pytorch",
+        "world-model"
+      ],
+      "created_at": "2025-06-27T02:37:38Z"
     },
     {
       "owner": "byoungd",
@@ -99,8 +182,14 @@
       "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "language": "",
       "stars_today": 1564,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 49443,
+      "forks": 5183,
+      "topics": [
+        "chinese",
+        "english-learning",
+        "tutorial"
+      ],
+      "created_at": "2017-05-30T07:18:52Z"
     },
     {
       "owner": "Biohub",
@@ -109,8 +198,10 @@
       "description": "",
       "language": "Jupyter Notebook",
       "stars_today": 102,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 2519,
+      "forks": 311,
+      "topics": [],
+      "created_at": "2024-06-25T07:09:18Z"
     },
     {
       "owner": "Crosstalk-Solutions",
@@ -119,8 +210,10 @@
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
       "stars_today": 294,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 26755,
+      "forks": 2645,
+      "topics": [],
+      "created_at": "2025-06-24T15:35:01Z"
     },
     {
       "owner": "DigitalPlatDev",
@@ -129,8 +222,18 @@
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
       "language": "HTML",
       "stars_today": 1317,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 171448,
+      "forks": 3330,
+      "topics": [
+        "digitalplat",
+        "domain",
+        "domain-platform",
+        "domainname",
+        "domains",
+        "free",
+        "freedomain"
+      ],
+      "created_at": "2024-05-30T13:23:00Z"
     },
     {
       "owner": "affaan-m",
@@ -139,8 +242,19 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": 1413,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 198210,
+      "forks": 30468,
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "created_at": "2026-01-18T00:51:51Z"
     },
     {
       "owner": "hardikpandya",
@@ -149,8 +263,10 @@
       "description": "A skill file for removing AI tells from prose",
       "language": "",
       "stars_today": 618,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 6783,
+      "forks": 480,
+      "topics": [],
+      "created_at": "2026-01-11T12:00:59Z"
     },
     {
       "owner": "DataTalksClub",
@@ -159,8 +275,19 @@
       "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
       "language": "Jupyter Notebook",
       "stars_today": 161,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 41452,
+      "forks": 8262,
+      "topics": [
+        "course",
+        "data-engineering",
+        "dbt",
+        "docker",
+        "free",
+        "kafka",
+        "kestra",
+        "spark"
+      ],
+      "created_at": "2021-10-21T09:32:50Z"
     },
     {
       "owner": "codecrafters-io",
@@ -169,8 +296,17 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "stars_today": 867,
-      "total_stars": 0,
-      "forks": 0
+      "total_stars": 507063,
+      "forks": 48150,
+      "topics": [
+        "awesome-list",
+        "free",
+        "programming",
+        "tutorial-code",
+        "tutorial-exercises",
+        "tutorials"
+      ],
+      "created_at": "2018-05-09T12:03:18Z"
     }
   ]
 }
