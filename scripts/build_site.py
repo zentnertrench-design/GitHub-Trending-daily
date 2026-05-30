@@ -106,6 +106,11 @@ def build_site():
     print(f"  Built {len(posts)} post pages + index")
 
 
+THEME_INIT_SCRIPT = "<script>(function(){var t=localStorage.getItem('theme')||'dark';document.documentElement.setAttribute('data-theme',t);document.addEventListener('DOMContentLoaded',function(){document.querySelectorAll('.theme-toggle').forEach(function(b){b.textContent=t==='dark'?'☀️':'\U0001f319';});});})();</script>"
+
+THEME_TOGGLE_BUTTON = "<button class=\"theme-toggle\" onclick=\"(function(){var d=document.documentElement,c=d.getAttribute('data-theme')||'dark',n=c==='dark'?'light':'dark';d.setAttribute('data-theme',n);localStorage.setItem('theme',n);document.querySelectorAll('.theme-toggle').forEach(function(b){b.textContent=n==='dark'?'☀️':'\U0001f319';});})()\" aria-label=\"Toggle theme\">☀️</button>"
+
+
 def head(css_path: str = "style.css", title: str = None) -> str:
     t = f"{title} — {SITE_TITLE}" if title else SITE_TITLE
     return f"""<!DOCTYPE html>
@@ -117,6 +122,7 @@ def head(css_path: str = "style.css", title: str = None) -> str:
 <meta name="description" content="{SITE_DESC}">
 <link rel="stylesheet" href="{css_path}">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
+{THEME_INIT_SCRIPT}
 </head>
 <body>
 """
@@ -124,8 +130,9 @@ def head(css_path: str = "style.css", title: str = None) -> str:
 
 def build_index(posts: list) -> str:
     html = head()
-    html += """
+    html += f"""
 <header class="site-header">
+  {THEME_TOGGLE_BUTTON}
   <div class="container">
     <h1 class="site-title">🔥 GitHub Trending Comedy</h1>
     <p class="site-subtitle">What's hot on GitHub, roasted daily with love and sarcasm.</p>
@@ -181,6 +188,7 @@ def build_post_page(post: dict) -> str:
     html = head(css_path="../style.css", title=post.get("title", "Post"))
     html += f"""
 <header class="site-header">
+  {THEME_TOGGLE_BUTTON}
   <div class="container">
     <a href="../index.html" class="back-link">← Back to all posts</a>
     <div class="post-meta-header">

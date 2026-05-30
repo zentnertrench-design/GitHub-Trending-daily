@@ -7,10 +7,12 @@
 <meta name="description" content="Daily GitHub trending repos, roasted with love. What's hot on GitHub today, served with a side of sarcasm.">
 <link rel="stylesheet" href="../style.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
+<script>(function(){var t=localStorage.getItem('theme')||'dark';document.documentElement.setAttribute('data-theme',t);document.addEventListener('DOMContentLoaded',function(){document.querySelectorAll('.theme-toggle').forEach(function(b){b.textContent=t==='dark'?'☀️':'🌙';});});})();</script>
 </head>
 <body>
 
 <header class="site-header">
+  <button class="theme-toggle" onclick="(function(){var d=document.documentElement,c=d.getAttribute('data-theme')||'dark',n=c==='dark'?'light':'dark';d.setAttribute('data-theme',n);localStorage.setItem('theme',n);document.querySelectorAll('.theme-toggle').forEach(function(b){b.textContent=n==='dark'?'☀️':'🌙';});})()" aria-label="Toggle theme">☀️</button>
   <div class="container">
     <a href="../index.html" class="back-link">← Back to all posts</a>
     <div class="post-meta-header">
