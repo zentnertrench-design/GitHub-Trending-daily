@@ -1,0 +1,356 @@
+{
+  "date": "2026-06-01",
+  "period": "daily",
+  "repositories": [
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars_today": 3086,
+      "total_stars": 136953,
+      "forks": 9338,
+      "topics": [
+        "autogen",
+        "autogen-extension",
+        "langchain",
+        "markdown",
+        "microsoft-office",
+        "openai",
+        "pdf"
+      ],
+      "created_at": "2024-11-13T19:56:40Z"
+    },
+    {
+      "owner": "nesquena",
+      "name": "hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "stars_today": 984,
+      "total_stars": 10575,
+      "forks": 1420,
+      "topics": [
+        "agent",
+        "ai-agents",
+        "hermes",
+        "hermes-agent",
+        "nous-research"
+      ],
+      "created_at": "2026-03-30T21:50:12Z"
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars_today": 660,
+      "total_stars": 23723,
+      "forks": 2129,
+      "topics": [
+        "agent-memory",
+        "ai-memory",
+        "cloudflare-kv",
+        "cloudflare-pages",
+        "cloudflare-workers",
+        "drizzle-orm",
+        "memory",
+        "postgres",
+        "remix",
+        "tailwindcss",
+        "typescript",
+        "vite"
+      ],
+      "created_at": "2024-02-27T20:10:04Z"
+    },
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars_today": 3325,
+      "total_stars": 76409,
+      "forks": 10845,
+      "topics": [
+        "ai",
+        "automation",
+        "chatgpt",
+        "moviepy",
+        "python",
+        "shortvideo",
+        "tiktok"
+      ],
+      "created_at": "2024-03-11T02:57:34Z"
+    },
+    {
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars_today": 1475,
+      "total_stars": 57575,
+      "forks": 5589,
+      "topics": [
+        "ai",
+        "ai-scraping",
+        "automation",
+        "crawler",
+        "crawling",
+        "crawling-python",
+        "data",
+        "data-extraction",
+        "mcp",
+        "mcp-server",
+        "playwright",
+        "python",
+        "scraping",
+        "selectors",
+        "stealth",
+        "web-scraper",
+        "web-scraping",
+        "web-scraping-python",
+        "webscraping",
+        "xpath"
+      ],
+      "created_at": "2024-10-13T20:29:53Z"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_today": 317,
+      "total_stars": 32306,
+      "forks": 1763,
+      "topics": [],
+      "created_at": "2025-11-16T01:52:04Z"
+    },
+    {
+      "owner": "p-e-w",
+      "name": "heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars_today": 241,
+      "total_stars": 22901,
+      "forks": 2452,
+      "topics": [
+        "abliteration",
+        "llm",
+        "transformer"
+      ],
+      "created_at": "2025-09-21T05:46:16Z"
+    },
+    {
+      "owner": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars_today": 428,
+      "total_stars": 18969,
+      "forks": 1422,
+      "topics": [
+        "compound",
+        "engineering"
+      ],
+      "created_at": "2025-10-09T19:43:46Z"
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": 284,
+      "total_stars": 81474,
+      "forks": 15845,
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "created_at": "2024-12-28T03:31:08Z"
+    },
+    {
+      "owner": "revfactory",
+      "name": "harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars_today": 527,
+      "total_stars": 4967,
+      "forks": 677,
+      "topics": [
+        "claude-code",
+        "claude-code-plugin",
+        "harness",
+        "harness-engineering"
+      ],
+      "created_at": "2026-03-26T21:22:07Z"
+    },
+    {
+      "owner": "godotengine",
+      "name": "godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "stars_today": 56,
+      "total_stars": 111501,
+      "forks": 25497,
+      "topics": [
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "godot",
+        "godotengine",
+        "multi-platform",
+        "open-source"
+      ],
+      "created_at": "2014-01-04T16:05:36Z"
+    },
+    {
+      "owner": "can1357",
+      "name": "oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars_today": 333,
+      "total_stars": 9301,
+      "forks": 753,
+      "topics": [
+        "ai-agent",
+        "ai-coding-agent",
+        "anthropic",
+        "bun",
+        "claude",
+        "cli",
+        "coding-assistant",
+        "llm",
+        "mcp",
+        "multi-provider",
+        "openai",
+        "rust",
+        "terminal",
+        "tui",
+        "typescript"
+      ],
+      "created_at": "2025-12-31T14:01:28Z"
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars_today": 880,
+      "total_stars": 24008,
+      "forks": 2766,
+      "topics": [
+        "audio",
+        "deeplearning",
+        "minicpm",
+        "multilingual",
+        "python",
+        "pytorch",
+        "speech",
+        "speech-synthesis",
+        "text-to-speech",
+        "tts",
+        "tts-model",
+        "voice-cloning",
+        "voice-design",
+        "voxcpm"
+      ],
+      "created_at": "2025-09-16T03:41:49Z"
+    },
+    {
+      "owner": "FareedKhan-dev",
+      "name": "train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Jupyter Notebook",
+      "stars_today": 860,
+      "total_stars": 3450,
+      "forks": 490,
+      "topics": [
+        "gemini",
+        "large-language-models",
+        "llm",
+        "openai",
+        "training",
+        "transformers"
+      ],
+      "created_at": "2025-01-12T04:03:05Z"
+    },
+    {
+      "owner": "stefan-jansen",
+      "name": "machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "language": "Jupyter Notebook",
+      "stars_today": 82,
+      "total_stars": 17616,
+      "forks": 5171,
+      "topics": [
+        "artificial-intelligence",
+        "data-science",
+        "deep-learning",
+        "finance",
+        "investment",
+        "investment-strategies",
+        "machine-learning",
+        "ml4t-workflow",
+        "synthetic-data",
+        "trading",
+        "trading-agent",
+        "trading-strategies"
+      ],
+      "created_at": "2018-05-09T12:33:08Z"
+    },
+    {
+      "owner": "dmtrKovalenko",
+      "name": "fff",
+      "url": "https://github.com/dmtrKovalenko/fff",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "language": "Rust",
+      "stars_today": 121,
+      "total_stars": 7008,
+      "forks": 297,
+      "topics": [
+        "filesearch",
+        "lua",
+        "neovim",
+        "neovim-plugin",
+        "rust"
+      ],
+      "created_at": "2025-07-31T22:01:49Z"
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_today": 1194,
+      "total_stars": 509964,
+      "forks": 48365,
+      "topics": [
+        "awesome-list",
+        "free",
+        "programming",
+        "tutorial-code",
+        "tutorial-exercises",
+        "tutorials"
+      ],
+      "created_at": "2018-05-09T12:03:18Z"
+    }
+  ]
+}
