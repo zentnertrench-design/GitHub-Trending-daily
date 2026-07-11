@@ -1,0 +1,352 @@
+{
+  "date": "2026-07-11",
+  "period": "daily",
+  "repositories": [
+    {
+      "owner": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars_today": 328,
+      "total_stars": 7585,
+      "forks": 955,
+      "topics": [
+        "agent",
+        "ai",
+        "code-analysis",
+        "code-generation",
+        "gemini-cli-extension",
+        "mcp",
+        "terminal-ai",
+        "terminal-automation",
+        "vibe-coding"
+      ],
+      "created_at": "2024-12-04T08:26:08Z"
+    },
+    {
+      "owner": "oven-sh",
+      "name": "bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars_today": 209,
+      "total_stars": 94445,
+      "forks": 4954,
+      "topics": [
+        "bun",
+        "bundler",
+        "javascript",
+        "javascriptcore",
+        "jsx",
+        "nodejs",
+        "npm",
+        "react",
+        "rust",
+        "rust-lang",
+        "transpiler",
+        "typescript"
+      ],
+      "created_at": "2021-04-14T00:48:17Z"
+    },
+    {
+      "owner": "abseil",
+      "name": "abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars_today": 89,
+      "total_stars": 17561,
+      "forks": 3204,
+      "topics": [],
+      "created_at": "2017-09-20T15:10:30Z"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": 1116,
+      "total_stars": 77056,
+      "forks": 8272,
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "created_at": "2026-02-15T20:20:26Z"
+    },
+    {
+      "owner": "jbeder",
+      "name": "yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "stars_today": 69,
+      "total_stars": 6114,
+      "forks": 2262,
+      "topics": [],
+      "created_at": "2015-03-30T02:52:32Z"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": 1712,
+      "total_stars": 165082,
+      "forks": 14203,
+      "topics": [],
+      "created_at": "2026-02-03T11:15:53Z"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars_today": 1013,
+      "total_stars": 252052,
+      "forks": 22502,
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "created_at": "2025-10-09T19:45:18Z"
+    },
+    {
+      "owner": "microsoft",
+      "name": "TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "TypeScript",
+      "stars_today": 177,
+      "total_stars": 109841,
+      "forks": 13646,
+      "topics": [
+        "javascript",
+        "language",
+        "typechecker",
+        "typescript"
+      ],
+      "created_at": "2014-06-17T15:28:39Z"
+    },
+    {
+      "owner": "catchorg",
+      "name": "Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "stars_today": 76,
+      "total_stars": 20648,
+      "forks": 3418,
+      "topics": [
+        "bdd",
+        "cpp",
+        "cpp14",
+        "framework",
+        "no-dependencies",
+        "tdd",
+        "test-framework",
+        "testing"
+      ],
+      "created_at": "2010-11-08T18:22:56Z"
+    },
+    {
+      "owner": "chriskohlhoff",
+      "name": "asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "stars_today": 92,
+      "total_stars": 6101,
+      "forks": 1509,
+      "topics": [],
+      "created_at": "2011-02-15T05:18:45Z"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "stars_today": 123,
+      "total_stars": 8377,
+      "forks": 769,
+      "topics": [
+        "agent",
+        "ai-agent",
+        "embedding",
+        "llm",
+        "local-first",
+        "long-term-memory",
+        "memory",
+        "openclaw-plugin",
+        "vector-search"
+      ],
+      "created_at": "2026-04-07T06:34:26Z"
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_today": 118,
+      "total_stars": 28842,
+      "forks": 3169,
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code"
+      ],
+      "created_at": "2025-07-04T01:26:26Z"
+    },
+    {
+      "owner": "zeux",
+      "name": "meshoptimizer",
+      "url": "https://github.com/zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "language": "C++",
+      "stars_today": 91,
+      "total_stars": 8060,
+      "forks": 788,
+      "topics": [
+        "compression",
+        "gltf",
+        "gpu",
+        "mesh-processing",
+        "optimization",
+        "simplification"
+      ],
+      "created_at": "2016-09-09T05:24:56Z"
+    },
+    {
+      "owner": "tailscale",
+      "name": "tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "stars_today": 143,
+      "total_stars": 33779,
+      "forks": 2921,
+      "topics": [
+        "2fa",
+        "oauth",
+        "sso",
+        "tailscale",
+        "vpn",
+        "wireguard"
+      ],
+      "created_at": "2020-01-31T22:00:03Z"
+    },
+    {
+      "owner": "google-labs-code",
+      "name": "stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars_today": 117,
+      "total_stars": 6866,
+      "forks": 939,
+      "topics": [],
+      "created_at": "2026-01-16T17:17:17Z"
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_today": 1224,
+      "total_stars": 14747,
+      "forks": 1005,
+      "topics": [
+        "agent",
+        "ai",
+        "claude-code",
+        "cli",
+        "codex",
+        "docx",
+        "excel",
+        "office",
+        "openclaw",
+        "pptx",
+        "presentation",
+        "skills",
+        "word",
+        "xlsx"
+      ],
+      "created_at": "2026-03-15T07:39:12Z"
+    },
+    {
+      "owner": "hashicorp",
+      "name": "terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "stars_today": 172,
+      "total_stars": 49252,
+      "forks": 10682,
+      "topics": [
+        "cloud",
+        "cloud-management",
+        "graph",
+        "infrastructure-as-code",
+        "terraform"
+      ],
+      "created_at": "2014-03-13T22:25:48Z"
+    },
+    {
+      "owner": "grpc",
+      "name": "grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars_today": 78,
+      "total_stars": 45184,
+      "forks": 11331,
+      "topics": [],
+      "created_at": "2014-12-08T18:58:53Z"
+    },
+    {
+      "owner": "vercel",
+      "name": "next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars_today": 191,
+      "total_stars": 140814,
+      "forks": 31542,
+      "topics": [
+        "blog",
+        "browser",
+        "compiler",
+        "components",
+        "hybrid",
+        "nextjs",
+        "node",
+        "react",
+        "server-rendering",
+        "ssg",
+        "static",
+        "static-site-generator",
+        "universal",
+        "vercel"
+      ],
+      "created_at": "2016-10-05T23:32:51Z"
+    }
+  ]
+}
