@@ -1,0 +1,203 @@
+{
+  "date": "2026-08-09",
+  "period": "daily",
+  "repositories": [
+    {
+      "owner": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars_today": 2483,
+      "total_stars": 9552,
+      "forks": 922,
+      "topics": [],
+      "created_at": "2026-05-08T01:42:41Z"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": 779,
+      "total_stars": 84765,
+      "forks": 9124,
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "created_at": "2026-02-15T20:20:26Z"
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_today": 118,
+      "total_stars": 78085,
+      "forks": 17685,
+      "topics": [],
+      "created_at": "2020-01-05T04:11:06Z"
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": 481,
+      "total_stars": 16904,
+      "forks": 1377,
+      "topics": [
+        "google",
+        "googlecloud",
+        "skills"
+      ],
+      "created_at": "2026-03-31T19:02:20Z"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": 1359,
+      "total_stars": 210403,
+      "forks": 18172,
+      "topics": [],
+      "created_at": "2026-02-03T11:15:53Z"
+    },
+    {
+      "owner": "goauthentik",
+      "name": "authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars_today": 467,
+      "total_stars": 24078,
+      "forks": 1844,
+      "topics": [
+        "authentication",
+        "authentik",
+        "authorization",
+        "kubernetes",
+        "oauth2",
+        "oauth2-client",
+        "oauth2-server",
+        "oidc",
+        "oidc-client",
+        "oidc-provider",
+        "proxy",
+        "reverse-proxy",
+        "saml",
+        "saml-idp",
+        "saml-sp",
+        "security",
+        "sso"
+      ],
+      "created_at": "2019-12-30T09:19:48Z"
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": 153,
+      "total_stars": 96706,
+      "forks": 18677,
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "created_at": "2024-12-28T03:31:08Z"
+    },
+    {
+      "owner": "google",
+      "name": "guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars_today": 93,
+      "total_stars": 51880,
+      "forks": 11182,
+      "topics": [
+        "guava",
+        "java"
+      ],
+      "created_at": "2014-05-29T16:23:17Z"
+    },
+    {
+      "owner": "LadybirdBrowser",
+      "name": "ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars_today": 48,
+      "total_stars": 65074,
+      "forks": 3107,
+      "topics": [
+        "browser",
+        "browser-engine"
+      ],
+      "created_at": "2024-05-30T09:18:10Z"
+    },
+    {
+      "owner": "denoland",
+      "name": "celld",
+      "url": "https://github.com/denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "stars_today": 432,
+      "total_stars": 2717,
+      "forks": 78,
+      "topics": [],
+      "created_at": "2025-04-25T12:27:48Z"
+    },
+    {
+      "owner": "litu54",
+      "name": "DevOps-Interview-Guide",
+      "url": "https://github.com/litu54/DevOps-Interview-Guide",
+      "description": "DevOps Interview Guide",
+      "language": "",
+      "stars_today": 68,
+      "total_stars": 770,
+      "forks": 909,
+      "topics": [],
+      "created_at": "2025-04-06T16:47:44Z"
+    },
+    {
+      "owner": "bannedbook",
+      "name": "fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars_today": 101,
+      "total_stars": 50079,
+      "forks": 8267,
+      "topics": [
+        "brook",
+        "daze",
+        "fanqiang",
+        "goflyway",
+        "lightsocks",
+        "proxy",
+        "psiphon",
+        "shadowsocks",
+        "ssr",
+        "trojan",
+        "v2ray"
+      ],
+      "created_at": "2015-01-14T00:34:25Z"
+    }
+  ]
+}
