@@ -1,0 +1,146 @@
+{
+  "date": "2026-09-22",
+  "period": "daily",
+  "repositories": [
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars_today": 436,
+      "total_stars": 36069,
+      "forks": 5287,
+      "topics": [],
+      "created_at": "2026-02-23T19:24:50Z"
+    },
+    {
+      "owner": "agent-substrate",
+      "name": "substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "stars_today": 498,
+      "total_stars": 2722,
+      "forks": 369,
+      "topics": [],
+      "created_at": "2026-05-13T19:02:38Z"
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars_today": 202,
+      "total_stars": 14958,
+      "forks": 1354,
+      "topics": [
+        "board",
+        "collaboration",
+        "data-table",
+        "doc",
+        "docx",
+        "excel",
+        "grid",
+        "pdf",
+        "ppt",
+        "pptx",
+        "presentation",
+        "sdk",
+        "sheet",
+        "slides",
+        "spreadsheet",
+        "table",
+        "word",
+        "wordprocessor",
+        "xlsx"
+      ],
+      "created_at": "2022-09-29T12:09:14Z"
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_today": 33,
+      "total_stars": 30938,
+      "forks": 3528,
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code"
+      ],
+      "created_at": "2025-07-04T01:26:26Z"
+    },
+    {
+      "owner": "google",
+      "name": "ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars_today": 2324,
+      "total_stars": 6855,
+      "forks": 329,
+      "topics": [],
+      "created_at": "2026-03-30T17:55:01Z"
+    },
+    {
+      "owner": "mvt-project",
+      "name": "mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars_today": 441,
+      "total_stars": 13805,
+      "forks": 1338,
+      "topics": [
+        "android",
+        "forensics",
+        "forensics-tools",
+        "ios",
+        "mobile",
+        "security"
+      ],
+      "created_at": "2021-07-16T05:50:44Z"
+    },
+    {
+      "owner": "superdesigndev",
+      "name": "treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "stars_today": 197,
+      "total_stars": 1997,
+      "forks": 206,
+      "topics": [
+        "agents",
+        "api-keys",
+        "cli",
+        "credentials",
+        "developer-tools",
+        "dsh-plugin",
+        "mcp",
+        "proxy",
+        "python",
+        "registry",
+        "secrets"
+      ],
+      "created_at": "2026-07-15T13:38:07Z"
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars_today": 155,
+      "total_stars": 25533,
+      "forks": 3097,
+      "topics": [],
+      "created_at": "2026-04-12T01:34:42Z"
+    }
+  ]
+}
