@@ -1,0 +1,274 @@
+{
+  "date": "2026-11-07",
+  "period": "daily",
+  "repositories": [
+    {
+      "owner": "vercel-labs",
+      "name": "agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars_today": 180,
+      "total_stars": 46493,
+      "forks": 3187,
+      "topics": [],
+      "created_at": "2026-01-11T05:38:15Z"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_today": 2088,
+      "total_stars": 65001,
+      "forks": 4217,
+      "topics": [],
+      "created_at": "2026-06-18T14:08:44Z"
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": 449,
+      "total_stars": 23115,
+      "forks": 1941,
+      "topics": [
+        "google",
+        "googlecloud",
+        "skills"
+      ],
+      "created_at": "2026-03-31T19:02:20Z"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": 1111,
+      "total_stars": 317284,
+      "forks": 26549,
+      "topics": [],
+      "created_at": "2026-02-03T11:15:53Z"
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars_today": 386,
+      "total_stars": 188418,
+      "forks": 22222,
+      "topics": [
+        "agent-skills"
+      ],
+      "created_at": "2025-09-22T15:53:31Z"
+    },
+    {
+      "owner": "meta",
+      "name": "astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars_today": 198,
+      "total_stars": 14187,
+      "forks": 1171,
+      "topics": [],
+      "created_at": "2026-01-09T16:20:32Z"
+    },
+    {
+      "owner": "prometheus",
+      "name": "prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars_today": 325,
+      "total_stars": 67324,
+      "forks": 10994,
+      "topics": [
+        "alerting",
+        "graphing",
+        "hacktoberfest",
+        "metrics",
+        "monitoring",
+        "prometheus",
+        "time-series"
+      ],
+      "created_at": "2012-11-24T11:14:12Z"
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars_today": 1761,
+      "total_stars": 99670,
+      "forks": 11803,
+      "topics": [
+        "cli",
+        "cti",
+        "cybersecurity",
+        "forensics",
+        "hacktoberfest",
+        "information-gathering",
+        "infosec",
+        "linux",
+        "osint",
+        "pentesting",
+        "python",
+        "python3",
+        "reconnaissance",
+        "redteam",
+        "sherlock",
+        "tools"
+      ],
+      "created_at": "2018-12-24T14:30:48Z"
+    },
+    {
+      "owner": "milind-soni",
+      "name": "OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars_today": 1986,
+      "total_stars": 16400,
+      "forks": 2326,
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "docker",
+        "electron",
+        "expo",
+        "grok",
+        "grok-bot",
+        "grok-bot-alternative",
+        "self-hosted",
+        "typescript"
+      ],
+      "created_at": "2026-08-11T18:58:55Z"
+    },
+    {
+      "owner": "astral-sh",
+      "name": "ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars_today": 350,
+      "total_stars": 50839,
+      "forks": 2624,
+      "topics": [
+        "linter",
+        "pep8",
+        "python",
+        "python3",
+        "ruff",
+        "rust",
+        "rustpython",
+        "static-analysis",
+        "static-code-analysis",
+        "style-guide",
+        "styleguide"
+      ],
+      "created_at": "2022-08-09T17:17:44Z"
+    },
+    {
+      "owner": "tailwindlabs",
+      "name": "tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "TypeScript",
+      "stars_today": 152,
+      "total_stars": 98252,
+      "forks": 7094,
+      "topics": [
+        "css",
+        "css-framework",
+        "functional-css",
+        "postcss",
+        "responsive",
+        "tailwindcss",
+        "utility-classes"
+      ],
+      "created_at": "2017-10-06T14:59:14Z"
+    },
+    {
+      "owner": "mbillow",
+      "name": "localthings",
+      "url": "https://github.com/mbillow/localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "language": "Python",
+      "stars_today": 184,
+      "total_stars": 961,
+      "forks": 102,
+      "topics": [
+        "coap-protocol",
+        "coap-server",
+        "custom-component",
+        "dtls",
+        "hacs",
+        "hacs-integration",
+        "home-assistant",
+        "home-automation",
+        "samsung",
+        "smartthings"
+      ],
+      "created_at": "2026-06-30T21:30:14Z"
+    },
+    {
+      "owner": "zed-industries",
+      "name": "zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars_today": 1119,
+      "total_stars": 94087,
+      "forks": 11540,
+      "topics": [
+        "gpui",
+        "rust-lang",
+        "text-editor",
+        "zed"
+      ],
+      "created_at": "2021-02-20T03:01:06Z"
+    },
+    {
+      "owner": "ranxianglei",
+      "name": "billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "language": "TypeScript",
+      "stars_today": 185,
+      "total_stars": 4452,
+      "forks": 359,
+      "topics": [
+        "dsh-plugin"
+      ],
+      "created_at": "2026-08-06T08:27:34Z"
+    },
+    {
+      "owner": "dsx-ai-factory",
+      "name": "nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "Go",
+      "stars_today": 125,
+      "total_stars": 382,
+      "forks": 79,
+      "topics": [
+        "bare-metal",
+        "cluster-api",
+        "gpu",
+        "kubernetes",
+        "nvidia"
+      ],
+      "created_at": "2026-08-04T15:42:58Z"
+    }
+  ]
+}
